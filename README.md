@@ -26,8 +26,8 @@ Usei um dataset próprio de conchas e pedras.
 
 ## Competências desenvolvidas
 
+- Coleta de imagens próprias
 - Processamento de imagens
 - Extração de características
 - Correspondência entre imagens
-- Deep Learning aplicado à Visão Computacional
-- Utilização de modelos pré-treinados
+
